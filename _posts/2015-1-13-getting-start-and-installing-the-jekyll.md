@@ -32,6 +32,6 @@ Heyyy Guys!!! you can get the source code of my basic blog site by [click here](
 
 For more information use the link as follows:
 
-[Jekyllrb](https://jekyllrb.com "Jekyllrb")
+-	[Jekyllrb](https://jekyllrb.com "Jekyllrb")
 
 *Spare enough time to your computer*
