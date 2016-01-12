@@ -26,7 +26,9 @@ type the following command:
 -	When we browse the [http://localhost:4000](http://localhost:4000), we'll see the our main page
 -	So, through $ jekyll new \<your-site-name\>, i can get the basic structure of a web-site that i can use spesific works,
 it may be writing blog for simple-but-handy programming tips :)
--	I used the kramdown syntax that is based on markdown. For more detail [kramdown syntax](http://kramdown.gettalong.org/syntax.html "kramdown")
+-	I used the kramdown syntax that is based on markdown, it has some several difference to standard markdown. It was configured in _config.yml file by default. For more detail [kramdown syntax](http://kramdown.gettalong.org/syntax.html "kramdown")
+
+Heyyy Guys!!! you can get the source code of my basic blog site by [click here](https://github.com/semihokanpehlivan/semihokanpehlivan.github.io "semihokan") and you can use all piece of the site as you wish
 
 *Have fun programming*
 
