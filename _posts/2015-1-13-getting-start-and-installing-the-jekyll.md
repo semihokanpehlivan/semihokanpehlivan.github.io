@@ -16,16 +16,17 @@ type the following command:
 
 -	i saw 2.0.14 is version of gem
 
-```
+~~~~~~
 ~username $ gem install jekyll
 ~username $ jekyll new my-web-site
 ~username $ cd my-web-site
 ~my-web-site username $ jekyll serve
-```
+~~~~~~
 
 -	When we browse the [http://localhost:4000](http://localhost:4000), we'll see the our main page
 -	So, through $ jekyll new \<your-site-name\>, i can get the basic structure of a web-site that i can use spesific works,
 it may be writing blog for simple-but-handy programming tips :)
+-	I used the kramdown syntax that is based on markdown. For more detail [kramdown syntax](http://kramdown.gettalong.org/syntax.html "kramdown")
 
 *Have fun programming*
 

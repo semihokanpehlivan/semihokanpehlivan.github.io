@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Jan 2016 22:41:50 +0200</pubDate>
-    <lastBuildDate>Tue, 12 Jan 2016 22:41:50 +0200</lastBuildDate>
+    <pubDate>Wed, 13 Jan 2016 01:11:08 +0200</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2016 01:11:08 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -57,17 +57,18 @@ type the following command:&lt;/li&gt;
   &lt;li&gt;i saw 2.0.14 is version of gem&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
-~username $ gem install jekyll
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;~username $ gem install jekyll
 ~username $ jekyll new my-web-site
 ~username $ cd my-web-site
 ~my-web-site username $ jekyll serve
-&lt;/code&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;ul&gt;
   &lt;li&gt;When we browse the &lt;a href=&quot;http://localhost:4000&quot;&gt;http://localhost:4000&lt;/a&gt;, we’ll see the our main page&lt;/li&gt;
   &lt;li&gt;So, through $ jekyll new &amp;lt;your-site-name&amp;gt;, i can get the basic structure of a web-site that i can use spesific works,
 it may be writing blog for simple-but-handy programming tips :)&lt;/li&gt;
+  &lt;li&gt;I used the kramdown syntax that is based on markdown. For more detail &lt;a href=&quot;http://kramdown.gettalong.org/syntax.html&quot; title=&quot;kramdown&quot;&gt;kramdown syntax&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;em&gt;Have fun programming&lt;/em&gt;&lt;/p&gt;
