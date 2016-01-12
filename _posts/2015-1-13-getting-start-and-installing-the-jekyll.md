@@ -30,8 +30,8 @@ it may be writing blog for simple-but-handy programming tips :)
 
 Heyyy Guys!!! you can get the source code of my basic blog site by [click here](https://github.com/semihokanpehlivan/semihokanpehlivan.github.io "semihokan") and you can use all piece of the site as you wish
 
-*Spare enough time to your computer*
-
 For more information use the link as follows:
 
 [Jekyllrb](https://jekyllrb.com "Jekyllrb")
+
+*Spare enough time to your computer*
