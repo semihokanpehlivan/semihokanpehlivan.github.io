@@ -21,6 +21,7 @@ we use the terminal to run that devilish programs by using some command like as 
 ~~~~~
 
 we can run some set of commands in order. for example:
+
 ~~~~~
 ~username $ git status
 ~username $ git add .
