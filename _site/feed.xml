@@ -1,14 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pretty Programming tips</title>
+    <title>Pretty Programming Tips</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 01:46:27 +0200</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 01:46:27 +0200</lastBuildDate>
+    <pubDate>Sat, 16 Jan 2016 14:15:57 +0200</pubDate>
+    <lastBuildDate>Sat, 16 Jan 2016 14:15:57 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Alias in Command-lines</title>
+        <description>&lt;p&gt;Essentially, we use the command-line to solve some spesific problem or obtain information of any application. we got used to execute program which have cute and user-friendly interfaces(even use the mouse). If we say that, in the world, there are some program but it has no interface which is created for 21th century users :). It has no mouse action, a tool bar or navigator e.g.&lt;/p&gt;
+
+&lt;p&gt;For example: I am using the text editor to write this article, the excellent program has a perfect navigator, multi-tabs, info about line and column number update so on.&lt;/p&gt;
+
+&lt;p&gt;well, we learned that there could be programs without interface.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/jrV1bRhWXr9Di/giphy.gif&quot; alt=&quot;OMG&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;we use the terminal to run that devilish programs by using some command like as follows:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# ==&amp;gt; this command say that sir, please create new directory in current directory
+~username $ mkdir &amp;lt;new-directory-name&amp;gt;
+# ==&amp;gt; have you ever seen the rigth-click and create new folder or directory
+# ==&amp;gt; it was so easy to write and run.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;we can run some set of commands in order. for example:
+~~~~~
+~username $ git status
+~username $ git add .
+~username $ git commit -am “Initial commit”
+~username $ git push -u origin master
+~~~~~&lt;/p&gt;
+
+&lt;p&gt;Alright, how can we curtail these commands, we must create &lt;code class=&quot;highlighter-rouge&quot;&gt;.bash_profile&lt;/code&gt;(hidden file) in &lt;code class=&quot;highlighter-rouge&quot;&gt;User&lt;/code&gt; directory. We can see the all file in current directory using other command below:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;~username $ ls -a
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In &lt;code class=&quot;highlighter-rouge&quot;&gt;.bash_profile&lt;/code&gt;, add the new alias’ like:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-BASH&quot;&gt;alias gs=&quot;git status&quot;
+alias ga=&quot;git add .&quot;
+alias gc=&quot;git commit -am&quot;
+alias gp=&quot;git push&quot;
+alias gpl=&quot;git pull&quot;
+.....
+alias jv=&quot;java --version&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Make sure that you save the &lt;code class=&quot;highlighter-rouge&quot;&gt;.bash_profile&lt;/code&gt; and restart the terminal have fun when using you new commands :).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Spare enough time to your computer&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 16 Jan 2016 00:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/operating/systems/2016/01/16/How-to-use-the-alias-in-command-lines.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/operating/systems/2016/01/16/How-to-use-the-alias-in-command-lines.html</guid>
+        
+        
+        <category>Operating</category>
+        
+        <category>Systems</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
