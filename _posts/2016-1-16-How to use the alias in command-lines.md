@@ -20,7 +20,7 @@ we use the terminal to run that devilish programs by using some command like as 
 # ==> it was so easy to write and run.
 ~~~~~
 
-we can run some set of commands in order. for example:
+-	we can run some set of commands in order. for example:
 
 ~~~~~
 ~username $ git status
