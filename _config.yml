@@ -9,9 +9,9 @@
 title: Pretty Programming Tips
 email: semihokanp@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The concept of this blog is to learn basic things which is short. I love learning small but 
+  handy things about computer programming or operating system concepts. I want to share some tips
+  (pretty tips) that i find out from other web sites.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://semihokanpehlivan.github.io" # the base hostname & protocol for your site
 twitter_username: semihokan
