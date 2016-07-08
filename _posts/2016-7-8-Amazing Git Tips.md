@@ -19,6 +19,6 @@ between ```git init``` and ```git init --bare```?
 
 -	after creating the bare repository, you can controll the subfolder of it. It must be like that:
 
-![image](/images/bare.png)
+![image](/images/bare2.png)
 
 ***Note:*** When you create a new bare repository, don't forget to suffix the ~~~.git~~ to repository name.
