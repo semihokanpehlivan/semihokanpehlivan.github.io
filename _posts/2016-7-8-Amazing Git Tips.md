@@ -15,4 +15,4 @@ between ```git init``` and ```git init --bare```?
 
 -	in the directory which you create bare repositories type the ```git init --bare project.git```
 
-![image](img.png)
+![image](/images/img.png)
