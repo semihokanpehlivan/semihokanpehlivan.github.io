@@ -45,4 +45,16 @@ between ```git init``` and ```git init --bare```?
 
 ![images](/images/config.png)
 
+-	Yes, new developer joined us. But they don't have file which they work on. No problem dude if you want to get working copy file. You can use the ```git clone <repo> <clone-name>
 
+![images](/images/clone2.png)
+
+-	The clone-2 changed the test.txt file context like "new test line" and realize commit-push operations. But clone-1 don't see the changes that clone-2 type "new test line". To see the changes clone-1 need to command ```git pull```.
+
+![images](/images/clone1-2.png)
+
+-	After pull operation in clone-1 side. The first clone can see the changed files inside working copy files(working tree)
+
+![images](/images/pull.png)
+
+*Spare enough time to your computer*
