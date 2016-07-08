@@ -22,3 +22,22 @@ between ```git init``` and ```git init --bare```?
 ![image](/images/bare2.png)
 
 ***Note:*** When you create a new bare repository, don't forget to suffix the ```.git``` to repository name.
+
+-	Our bare repository is ready, now all developer can clone my bare repository or push new files versions. I want to remember the important thing again about bare repository. You cannot use the bare reporsitories' files. Just clonning the working copy files to your local.
+
+#### Clone Repositories
+
+-	Now, we will clone the bare repository to our local. You can use the following command to clone. And adding the new file called ```test.txt```.
+
+![image](/images/clone1.png)
+
+***Note:***There are some basic program like touch or cat. Never mind it :). The cat program that i write to command line show the context of file, if you type like above picture.
+
+##### Commit and Push file test.txt to prıject.git bare repository
+
+-	If two or more developer use the central bare repository, you need to send your file to the bare repository so that other developers get new files(this means pull operation).
+
+![image](/images/commit.png)
+
+>	It was classic git add commit push operation :D
+
