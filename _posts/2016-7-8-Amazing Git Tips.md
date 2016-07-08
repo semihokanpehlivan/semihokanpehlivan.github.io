@@ -21,4 +21,4 @@ between ```git init``` and ```git init --bare```?
 
 ![image](/images/bare2.png)
 
-***Note:*** When you create a new bare repository, don't forget to suffix the ~~~.git~~~ to repository name.
+***Note:*** When you create a new bare repository, don't forget to suffix the ```.git``` to repository name.
