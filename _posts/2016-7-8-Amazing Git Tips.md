@@ -13,6 +13,12 @@ between ```git init``` and ```git init --bare```?
 
 -	How to create bare repository
 
--	in the directory which you create bare repositories type the ```git init --bare project.git```
+-	in the directory which you want to create bare repositories type the following command as follows:
 
 ![image](/images/img.png)
+
+-	after creating the bare repository, you can controll the subfolder of it. It must be like that:
+
+![image](/images/bare.png)
+
+***Note:*** When you create a new bare repository, don't forget to suffix the ~~~.git~~ to repository name.
