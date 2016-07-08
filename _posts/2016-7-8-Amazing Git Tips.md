@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Amazing Git tips -Bare Repos, Clone, Config and Pull- "
+title:  "Amazing Git tips -Bare Repos, Clone and Pull- "
 categories: jekyll update
 ---
 
@@ -40,4 +40,9 @@ between ```git init``` and ```git init --bare```?
 ![image](/images/commit.png)
 
 >	It was classic git add commit push operation :D
+
+***Note:***You can get some configuration information about ralated repository with typing the following commands. The config file is in the .git file that is in cloned project from bare repository.
+
+![images](/images/config.png)
+
 
